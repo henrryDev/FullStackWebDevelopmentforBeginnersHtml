@@ -1,0 +1,9 @@
+body{
+
+    background-color: aqua;
+}
+h1 {
+color: rgb(172, 129, 20);
+background-color: brown;
+}
+/* é possível colorir na própria tag de h1 <h1 style="color rgb(172,129, 20) Este é meu capítulo</h1>  */
